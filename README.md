@@ -127,5 +127,6 @@ This backend service is designed to work with the frontend application running o
 
 ## Repository
 
-Backend Repository: https://github.com/hf-cure/capstone
-Frontend Repository: https://github.com/hf-cure/capstone-frontend
+Frontend Repository: https://github.com/A-VHB/capstone-frontend
+
+Backend Repository: https://github.com/A-VHB/capstone-backend
